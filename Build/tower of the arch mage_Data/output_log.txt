@@ -1,0 +1,314 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\zlib.net.dll (this message is harmless)
+Loading D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\zlib.net.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Projects\Tower of the Arch Mage\tower of the arch mage_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.436297 ms
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 21 maxX : 25 minY : 8 maxY : 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 6 maxX : 24 minY : 7 maxY : 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 5 maxX : 8 minY : 5 maxY : 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 8 maxX : 10 minY : 12 maxY : 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current seed = 852
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOFFFFFFFOOOOOOOOOOOOOOOOOOOX
+XOOOOFFFOOOFOOOOOOOOOOOOOOOOOOOX
+XOOOOFFFOOOFOOOOOOOOOOOOOOOOOOOX
+XOOOOFFFOOFFFFOOOOOOOOOOOOOOOOOX
+XOOOOFFFOOFFFFOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOFFFFOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOFFFFOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOFOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOFFFFOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOFFFFFFFFFFOOOOOOOOOOOOOOOOX
+XOOOOFFFFOOOFFFFFOOOOOOOOOOOOOOX
+XOOOOFFFFOOOFFFFFOOOOOOOOOOOOOOX
+XOOOOFFFFFFFFFFFFOOOOOOOOOOOOOOX
+XOOOOOOOOOOOFFFFFOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.466890 ms
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 7 maxX : 9 minY : 24 maxY : 28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 10 maxX : 21 minY : 21 maxY : 24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 23 maxX : 25 minY : 17 maxY : 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current seed = 154
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOOOOFOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOFFFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOFOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOFOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOFOFFFFFFOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOFOOOOOOOOOX
+XOOOOOOOOOOOOOOOFFFFFFOOOOOOOOOX
+XOOOOOOOOOOOOOOOFFFFFFOOOOOOOOOX
+XOOOOOOOOOOOOOOOFFFFFFOOOOOOOOOX
+XOOOOOOOOOOOOOOOFFFFFFOOOOOOOOOX
+XOOOOOOOOOOOOOOOFFFFFFOOOOOOOOOX
+XOOOOOOOOOOOOOOOFFFFFFOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.327375 ms (FindLiveObjects: 0.111735 ms CreateObjectMapping: 0.023491 ms MarkObjects: 0.187028 ms  DeleteObjects: 0.004818 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.805117 ms
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 11 maxX : 20 minY : 13 maxY : 24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 21 maxX : 22 minY : 16 maxY : 26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 20 maxX : 21 minY : 16 maxY : 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current seed = 234
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOFFFFFFOOOOOOOOOOOOOOOOX
+XOOOOOOOOFFFFFFOOOOOOOOOOOOOOOOX
+XOOOOOOOOFFFFFFOOOOOOOOOOOOOOOOX
+XOOOOOOOOFFFFFFOOOOOOOOOOOOOOOOX
+XOOOOOOOOFFFFFFOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOFOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOFOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOFOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOFOOOOOOOOOOFFFOOOOX
+XOOOOOOOOOOOOFFFFFFFFFFFFFFOOOOX
+XOOOOOOOOOOOOFFFFFOOOOOOFFFOOOOX
+XOOOOOOOOOOOOFFFFFFFFFFFFFFOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOFFFOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOFFFOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.230397 ms (FindLiveObjects: 0.039453 ms CreateObjectMapping: 0.024696 ms MarkObjects: 0.159622 ms  DeleteObjects: 0.005421 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.156181 ms
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 14 maxX : 20 minY : 24 maxY : 26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 8 maxX : 15 minY : 25 maxY : 25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Drawing Corridor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+minX : 5 maxX : 6 minY : 23 maxY : 25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current seed = 451
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOFFFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOFOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOFFFFFFOOOX
+XOOOOOOOOOOOOOOOOOOOOOFFFFFFOOOX
+XOOOOOOOOOOOOOOOOOOOOOFFFFFFOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOFOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOFOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOFOOOOX
+XOOOOOOOOOOOOOOOOOOOFFFFFFFOOOOX
+XOOOOOOOOOOOOOOOOOOOFFFFFOOOOOOX
+XOOOOOOOOOOOOOOOOOOOFFFFFOOOOOOX
+XOOOOOOOOOOOOOOOOOOOFFFFFOOOOOOX
+XOOOOOOOOOOOOOOOOOOOFFFFFOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.230096 ms (FindLiveObjects: 0.038851 ms CreateObjectMapping: 0.014757 ms MarkObjects: 0.170765 ms  DeleteObjects: 0.004818 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 61e4 -> priority: 1 
+  Thread -> id: 6284 -> priority: 1 
+  Thread -> id: 2d24 -> priority: 1 
+  Thread -> id: 6008 -> priority: 1 
